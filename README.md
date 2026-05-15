@@ -119,30 +119,6 @@ Input Image
 
 ---
 
-# 📂 Project Structure
-
-```text
-Retinex-Hybrid-LLIE/
-│
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   └── app.py
-│
-├── frontend/
-│   ├── css/
-│   ├── js/
-│   ├── assets/
-│   └── index.html
-│
-├── dataset/
-├── sample_results/
-├── research_paper/
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 # 📊 Experimental Results
@@ -170,37 +146,6 @@ Retinex-Hybrid-LLIE/
 | + Retinex Decomposition | 18.12 |
 | + Diffusion Refinement | 18.54 |
 | + Post-processing | 18.76 |
-
----
-
-# ⚡ Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/your-username/Retinex-Hybrid-LLIE.git
-cd Retinex-Hybrid-LLIE
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# ▶ Usage
-
-## Run Backend Server
-
-```bash
-python app.py
-```
-
-## Open Frontend
-
-Open `index.html` in your browser.
 
 ---
 
